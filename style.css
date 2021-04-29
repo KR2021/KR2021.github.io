@@ -6,15 +6,16 @@ body {
 }
 
 #myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
+    position: fixed;
+    right: 0;
+    top: 0;
+    min-width: 100%;
+    min-height: 100%;
 }
 
 .content {
   position: fixed;
+  top: 0;
   color: yellow;
   width: 100%;
 }
