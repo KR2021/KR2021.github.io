@@ -15,8 +15,6 @@ body {
 
 .content {
   position: fixed;
-  bottom: 0;
   color: yellow;
   width: 100%;
-  padding: 20px;
 }
