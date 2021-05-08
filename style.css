@@ -1,8 +1,12 @@
 body {
   color: white;
   background-color: black;
-  font-family: Helvetica light, Arial, sans-sans-serif;
+  font-family: Helvetica, Arial, sans-sans-serif;
   font-size: 2em;
   display: flex;
   flex-direction: row; justify-content: space-between;
+}
+
+body:hover {
+  color: red;
 }
