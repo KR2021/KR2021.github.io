@@ -1,22 +1,8 @@
 body {
-  font-family: Arial;
-  text-align: center;
-  color: yellow;
-  background-color: black
-}
-
-#myVideo {
-    position: fixed;
-    right: 0;
-    top: 0;
-    min-width: 100%;
-    min-height: 100%;
-}
-
-.content {
-  position: fixed;
-  margin: 0 auto;
-  color: yellow;
-  width: 100%;
-  overflow: auto;
+  color: white;
+  background-color: black;
+  font-family: Helvetica light, Arial, sans-sans-serif;
+  font-size: 2em;
+  display: flex;
+  flex-direction: row; justify-content: space-between;
 }
