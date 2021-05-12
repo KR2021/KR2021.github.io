@@ -12,11 +12,12 @@ body {
 h1 {
   display: block;
   font-size: 15em;
+  z-index: 999;
 }
 
 section {
-  columns: 1;
-  column-gap: 1em;
-  column-width: 1em;
+  columns: 6;
+  column-gap: 0em;
+  column-width: 8em;
   overflow: hidden;
 }
