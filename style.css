@@ -10,9 +10,11 @@ body {
 }
 
 h1 {
-  display: block;
-  font-size: 15em;
-  z-index: 999;
+  display: grid;
+  place-items: center;
+  font-size: 25em;
+  z-index: 1000;
+  overflow: scroll;
 }
 
 section {
@@ -20,4 +22,9 @@ section {
   column-gap: 0em;
   column-width: 8em;
   overflow: hidden;
+  opacity: 1;
+}
+
+img:hover {
+  opacity: 0;
 }
