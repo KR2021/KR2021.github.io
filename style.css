@@ -1,20 +1,22 @@
 
 body {
+  display: block;
   color: white;
   background-color: black;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 1em;
-  display: flex;
-  flex-direction: row; justify-content: space-between;
-  margin-top: 0em;
-  margin-left: 2em;
-  margin-right: 2em;
-  margin-bottom: 2em;
+  margin: 0px 0px 0px 50px;
+  /* display: flex;
+  flex-direction: row; justify-content: space-between;*/
+}
+
+h1 {
+  display: block;
+  font-size: 15em;
 }
 
 section {
-  columns: 6;
-  column-gap: 0em;
-  column-width: 8em;
+  columns: 1;
+  column-gap: 1em;
+  column-width: 1em;
   overflow: hidden;
 }
