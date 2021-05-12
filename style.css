@@ -16,7 +16,7 @@ h1 {
 }
 
 section {
-  columns: 6;
+  columns: 1;
   column-gap: 0em;
   column-width: 8em;
   overflow: hidden;
