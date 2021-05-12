@@ -10,8 +10,6 @@ body {
 }
 
 h1 {
-  display: grid;
-  place-items: center;
   font-size: 25em;
   z-index: 1000;
   overflow: scroll;
