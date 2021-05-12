@@ -6,4 +6,15 @@ body {
   font-size: 1em;
   display: flex;
   flex-direction: row; justify-content: space-between;
+  margin-top: 0em;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-bottom: 2em;
+}
+
+section {
+  columns: 6;
+  column-gap: 0em;
+  column-width: 8em;
+  overflow: hidden;
 }
