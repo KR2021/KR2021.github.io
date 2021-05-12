@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-  font-size: 25em;
+  font-size: 15em;
   z-index: 1000;
   overflow: scroll;
 }
