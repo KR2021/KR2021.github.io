@@ -5,7 +5,8 @@ body {
   font-family: Arial;
   text-align: center;
   color: yellow;
-  background-color: black
+  background-color: black;
+  margin: auto;
 }
 
 #myVideo {
