@@ -1,4 +1,7 @@
 body {
+  display: flex;
+  place-items: center;
+  height: 100vh;
   font-family: Arial;
   text-align: center;
   color: yellow;
