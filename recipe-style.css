@@ -2,7 +2,7 @@ body {
  overflow: hidden;
  color: red;
  font-family: Arial;
- font-size: 2rem;
+ /*font-size: 2rem;*/
 }
 
 .container {
@@ -11,7 +11,7 @@ body {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 30px 1fr 30px;
-  padding: 1rem;
+  /*padding: 1rem;*/
 }
 
 .body {
@@ -20,7 +20,7 @@ body {
   overflow: hidden;
   margin-right: 2rem;
   margin-top: 2rem;
-  margin-bottom: 2rem;
+  /*margin-bottom: 2rem;*/
 }
 
 .content {
