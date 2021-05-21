@@ -20,7 +20,12 @@ body {
   height: 100vh;
 }
 
+header {
+  padding: 0 1em 2em 1em;
+}
+
 main {
+  padding: 2.5em 0em 2em 1em;
   overflow-y: scroll;
 }
 
