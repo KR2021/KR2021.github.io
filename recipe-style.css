@@ -17,11 +17,7 @@ body {
   display: grid;
  	grid-template-columns: minmax(450px, 30vw) 1fr;
   overflow: hidden;
-}
-
-header {
   height: 100vh;
-  overflow: hidden;
 }
 
 main {
