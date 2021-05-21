@@ -40,18 +40,14 @@ main {
   font: 32px Arial, sans-serif;
 }
 
-footer {
-  position: sticky;
-  text-align: left;
-  padding: 0;
+nav {
+  bottom: 1em;
+  position: fixed;
 }
 
 .button {
-  color: white;
+  color: red;
   text-decoration: none;
-  background-color: red;
-  border-radius: 100%;
-  padding: 2rem;
 }
 
 .button:hover {
