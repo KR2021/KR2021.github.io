@@ -6,7 +6,6 @@ body {
   text-align: center;
   color: yellow;
   background-color: black;
-  font-size: 10em;
 }
 
 #myVideo {
@@ -23,4 +22,11 @@ body {
   /*color: yellow;*/
   width: 100%;
   /*overflow: auto;*/
+}
+
+a {
+color: yellow;
+text-decoration: none;
+font-weight: bold;
+font-size: 15em;
 }
