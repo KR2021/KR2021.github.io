@@ -30,3 +30,7 @@ text-decoration: none;
 font-weight: bold;
 font-size: 15em;
 }
+
+a:hover {
+  text-decoration: underline;
+}
