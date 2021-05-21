@@ -1,31 +1,20 @@
 body {
- overflow: hidden;
- color: red;
- font-family: Arial;
- font-size: 2rem;
-}
-
-.container {
-  height: 100vh;
-  width: 100vw;
   display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: 30px 1fr 30px;
-  /*padding: 1rem;*/
-}
-
-.body {
-  display: grid;
-  grid-template-columns: 1fr 3fr;
+ 	grid-template-columns: minmax(450px, 30vw) 1fr;
   overflow: hidden;
-  margin-right: 2rem;
-  margin-top: 2rem;
-  /*margin-bottom: 2rem;*/
+  color: red;
+  font-family: Arial;
+  font-size: 2rem;
+  padding: 2rem;
 }
 
-.content {
-  overflow-y: scroll;
-  padding: 1rem;
-  display: grid;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+.circle {
+  border-radius: 50%;
+  width: 34px;
+  height: 34px;
+  padding: 10px;
+  border: 3px solid red;
+  color: red;
+  text-align: center;
+  font: 32px Arial, sans-serif;
 }
