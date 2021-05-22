@@ -24,6 +24,10 @@ header {
   padding: 0 1em 2em 1em;
 }
 
+.ingridients {
+  padding: 0 0 0 0;
+}
+
 main {
   padding: 1em 0em 2em 2em;
   overflow-y: scroll;
