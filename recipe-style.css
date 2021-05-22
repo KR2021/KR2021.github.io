@@ -15,7 +15,7 @@ body, html {
 
 body {
   display: grid;
- 	grid-template-columns: minmax(400px, 30vw) 1fr;
+ 	grid-template-columns: minmax(350px, 25vw) 1fr;
   overflow: hidden;
   height: 100vh;
 }
