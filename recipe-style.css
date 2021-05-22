@@ -25,11 +25,12 @@ header {
 }
 
 .ingridients {
-  padding: 0 0 0 0;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
 }
 
 main {
-  padding: 1em 0em 2em 2em;
+  padding: 1em 1em 2em 2em;
   overflow-y: scroll;
 }
 
